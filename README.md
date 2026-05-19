@@ -18,6 +18,10 @@ All brand assets in this repository are created and owned by Saeed Heidarizarei.
 
 © 2026 Saeed Heidarizarei. All rights reserved.
 
+## Logo Preview
+
+![TechAxon Logo](./logo/logo.png)
+
 ## Usage
 
 The contents of this repository may not be copied, modified, redistributed, or used without explicit written permission from the owner.
